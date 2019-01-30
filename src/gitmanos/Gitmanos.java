@@ -17,6 +17,7 @@ public class Gitmanos {
          System.out.print("Sumando 1 : ");
          System.out.printf("hola bety");
          System.out.printf("como estas????");
+         System.out.printf("Que onda????");
 
          int s1 = Integer.parseInt(br.readLine());
          System.out.print("Sumando 2 : ");
